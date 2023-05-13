@@ -5,7 +5,6 @@ import os
 
 app = Flask(__name__)
 
-# Set the directory for storing uploaded files
 app.config['UPLOAD_FOLDER'] = 'pics'
 
 @app.route('/')
