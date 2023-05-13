@@ -4,8 +4,8 @@ This is a web application built using Flask that allows users to upload an image
 
 ## How to run the application
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/image-upload-app.git`.
-2. Navigate to the project directory using `cd image-upload-app`.
+1. Clone this repository to your local machine using `git clone https://github.com/your-username/Flask_Webpage_PythonFile.git`.
+2. Navigate to the project directory using `cd Flask_Webpage_PythonFile`.
 3. Install the required dependencies using `pip install -r requirements.txt`.
 4. Start the Flask development server using `python app.py`.
 5. Open a web browser and go to `http://localhost:5000` to access the application.
